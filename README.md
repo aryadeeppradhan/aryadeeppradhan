@@ -1,6 +1,6 @@
 ## Hi Coders! 👋👨🏻‍💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=4000&pause=500&color=15A7F7&width=435&lines=I+am+Aryadeep+Pradhan;Nice+to+meet+you!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=4000&pause=500&color=15A7F7&width=435&lines=I+am+Aryadeep+Pradhan.;Nice+to+meet+you!!!)](https://git.io/typing-svg)
 
 <!--
 **aryadeeppradhan/aryadeeppradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
