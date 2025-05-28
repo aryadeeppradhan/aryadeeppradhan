@@ -1,6 +1,7 @@
 ## Hi Coders! 👋👨🏻‍💻
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=4000&pause=500&color=15A7F7&width=435&lines=I+am+Aryadeep+Pradhan.;Nice+to+meet+you!!!)](https://git.io/typing-svg)
+<img style=" float:right;" src="Untitled.png" alt="Banner" width="1000"/>
 
 ---
 
@@ -11,7 +12,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 - 🔭 I’m currently working on [a health assessment website](https://github.com/aryadeeppradhan/MyHealth)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** 
 
 - 📫 How to reach me **aryadeep.pradhan@gmail.com**
 <!--
